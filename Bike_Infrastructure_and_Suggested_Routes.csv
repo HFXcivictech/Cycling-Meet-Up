@@ -1,0 +1,988 @@
+﻿OBJECTID,BIKEFACID,BIKETYPE,BIKE_NAME,STREETNAME,IMPLEMENT,PILOT_PERM,ONE_SIDE,DIRECTION,INSTYR,PROT_TYPE,TRIPLE_A,ADDDATE,MODDATE,SDATE,SOURCE,SACC,Shape__Length
+1,BIKEFAC2996,Multi-use Pathway,Atlantic View Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,15159.80174
+2,BIKEFAC2997,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2860.942236
+3,BIKEFAC2998,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,591.6733855
+4,BIKEFAC2999,Multi-use Pathway,Shearwater Flyers Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,10711.48824
+5,BIKEFAC3000,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,565.8143388
+6,BIKEFAC3001,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAILS GROUP,Interactive,1857.462334
+7,BIKEFAC3002,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,149.9230544
+8,BIKEFAC3003,Multi-use Pathway,Shearwater Flyers Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,115.8102668
+9,BIKEFAC3004,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3661.999922
+10,BIKEFAC3005,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,717.9967938
+11,BIKEFAC3006,Multi-use Pathway,First Lake Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2894.011827
+12,BIKEFAC3007,Multi-use Pathway,Second Lake Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,4497.076079
+13,BIKEFAC3008,Multi-use Pathway,Bedford Sackville Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,4970.80816
+14,BIKEFAC3009,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,419.0916188
+15,BIKEFAC3010,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,PICTOMETRY,Interactive,137.5459113
+16,BIKEFAC3011,Multi-use Pathway,Dewolf Park Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,2137.637296
+17,BIKEFAC3012,Multi-use Pathway,Mainland Linear Greenway,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,700.4885699
+18,BIKEFAC3013,Multi-use Pathway,Mainland Linear Greenway,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,394.5516086
+19,BIKEFAC3014,Multi-use Pathway,Mainland Common Linear Greenway,,Partial Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,652.306486
+20,BIKEFAC3015,Multi-use Pathway,Mainland Linear Greenway,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,690.2219263
+21,BIKEFAC3016,Multi-use Pathway,Mainland Linear Greenway,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,1230.683279
+22,BIKEFAC3017,Multi-use Pathway,Mainland Linear Greenway,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,572.0471938
+23,BIKEFAC3018,Multi-use Pathway,Mainland Linear Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAIL,Interactive,313.737112
+24,BIKEFAC3019,Multi-use Pathway,Mainland Linear Greenway,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,503.353842
+25,BIKEFAC3020,Multi-use Pathway,Mainland Linear Greenway,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,1501.367484
+26,BIKEFAC3021,Multi-use Pathway,Mainland Linear Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAIL,Interactive,44.85866869
+27,BIKEFAC3022,Multi-use Pathway,Mainland Linear Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAIL,Interactive,29.44892379
+28,BIKEFAC3023,Multi-use Pathway,Regatta Point Walkway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,30.88987546
+29,BIKEFAC2970,Multi-use Pathway,Ahern MUP,Ahern,Full Implementation,Permanent,East Side,Bidirectional,2019,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,540.9413456
+30,BIKEFAC2971,Painted Bike Lane,Bell North Painted Bike Lane,Bell,Full Implementation,Permanent,South Side,Unidirectional Eastbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,439.3905894
+31,BIKEFAC2972,Protected Bike Lane,Rainnie Bidirectional Bikeway,Rainnie,Full Implementation,Pilot,South Side,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,438.959199
+32,BIKEFAC2973,Suggested Bike Route on Main Road,Petpeswick Loop,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,28128.13937
+33,BIKEFAC2974,Suggested Bike Route on Main Road,West Jeddore Pleasant Point Loop,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,54918.99092
+34,BIKEFAC2975,Suggested Bike Route on Main Road,Porters Lake Chezzetcook Loop,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,50773.59237
+35,BIKEFAC2976,Suggested Bike Route on Main Road,Clam Harbour Loop,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,55159.99526
+36,BIKEFAC2977,Suggested Bike Route on Main Road,,Hwy 357,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,55215.49116
+37,BIKEFAC2978,Multi-use Pathway,Chain of Lakes Trail,,Full,Pilot,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,131.67594
+38,BIKEFAC2979,Multi-use Pathway,Beechville Lakeside Timberlea Rails to Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,18257.30297
+39,BIKEFAC2980,Multi-use Pathway,Chain of Lakes Trail,,Full,Pilot,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,193.2950685
+40,BIKEFAC2981,Multi-use Pathway,Chain of Lakes Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAIL,Interactive,1692.78624
+41,BIKEFAC2982,Multi-use Pathway,Chain of Lakes Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAIL,Interactive,1659.185033
+42,BIKEFAC2983,Multi-use Pathway,Chain of Lakes Trail,,Full,Pilot,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,25.15792047
+43,BIKEFAC2984,Multi-use Pathway,St Margarets Bay Area Rails to Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,44856.4232
+44,BIKEFAC2985,Multi-use Pathway,Chain of Lakes Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,11.94059077
+45,BIKEFAC2986,Multi-use Pathway,Chain of Lakes Trail,,Full,Pilot,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,257.948125
+46,BIKEFAC2987,Multi-use Pathway,Chain of Lakes Trail,,Full,Pilot,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,1071.485508
+47,BIKEFAC2988,Multi-use Pathway,Chain of Lakes Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,3508.160032
+48,BIKEFAC2989,Multi-use Pathway,Chain of Lakes Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAIL,Interactive,354.2836726
+49,BIKEFAC2990,Multi-use Pathway,Chain of Lakes Trail,,Full,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,382.6205457
+50,BIKEFAC2991,Multi-use Pathway,Chain of Lakes Trail,,Full,Pilot,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,827.938527
+51,BIKEFAC2992,Multi-use Pathway,Cole Harbour Salt Marsh Heritage Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,10447.01703
+52,BIKEFAC2993,Multi-use Pathway,Shearwater Flyers Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,574.3791389
+53,BIKEFAC2994,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,453.3133252
+54,BIKEFAC2995,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1074.378689
+55,BIKEFAC3106,Multi-use Pathway,,Broad St,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,426.9987483
+56,BIKEFAC3107,Multi-use Pathway,Second Lake Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,26.78682901
+57,BIKEFAC3108,Multi-use Pathway,Second Lake Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1177.144904
+58,BIKEFAC3109,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,719.5295248
+59,BIKEFAC3110,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,315.7801922
+60,BIKEFAC3111,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,177.8125619
+61,BIKEFAC3112,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,43.13311608
+62,BIKEFAC3113,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,95.8912773
+63,BIKEFAC3114,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,2921.977278
+64,BIKEFAC3115,Multi-use Pathway,Halifax Waterfront Boardwalk,,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,152.6063755
+65,BIKEFAC3116,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,434.6867265
+66,BIKEFAC3117,Multi-use Pathway,Halifax Waterfront Boardwalk,,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,797.3923158
+67,BIKEFAC3118,Multi-use Pathway,Halifax Waterfront Boardwalk,,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,290.9091689
+68,BIKEFAC3119,Multi-use Pathway,Halifax Waterfront Boardwalk,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,822.2745979
+69,BIKEFAC3120,Multi-use Pathway,Halifax Waterfront Boardwalk,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,112.0537938
+70,BIKEFAC3121,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,53.9304606
+71,BIKEFAC3122,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,170.8224272
+72,BIKEFAC3123,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,115.9662781
+73,BIKEFAC3124,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,52.00787449
+74,BIKEFAC3125,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,4.478345615
+75,BIKEFAC3126,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,17.19411135
+76,BIKEFAC3127,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,40.38329521
+77,BIKEFAC3128,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,190.7398892
+78,BIKEFAC3129,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,22.45741162
+79,BIKEFAC3130,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,15.35489579
+80,BIKEFAC3131,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,139.0899944
+81,BIKEFAC3132,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,34.19715589
+82,BIKEFAC3133,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,161.5395596
+83,BIKEFAC3134,Multi-use Pathway,North Preston Greenway,North Preston Rd,Partial Implementation,Permanent,West Side,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2300.924942
+84,BIKEFAC3135,Multi-use Pathway,Farrell Street Park Pathways,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,279.6286722
+85,BIKEFAC3136,Multi-use Pathway,,Larry Uteck Dr,Full Implementation,Permanent,North Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2187.51932
+86,BIKEFAC3137,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,201.8910766
+87,BIKEFAC3024,Multi-use Pathway,Regatta Point Walkway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,447.1478056
+88,BIKEFAC3025,Multi-use Pathway,Regatta Point Walkway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,62.66609293
+89,BIKEFAC3026,Multi-use Pathway,Regatta Point Walkway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,23.12469189
+90,BIKEFAC3027,Multi-use Pathway,Regatta Point Walkway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,204.2036496
+91,BIKEFAC3028,Multi-use Pathway,Regatta Point Walkway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,666.3644222
+92,BIKEFAC3029,Multi-use Pathway,Regatta Point Walkway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,64.79920282
+93,BIKEFAC3030,Multi-use Pathway,Halifax Urban Greenway,Beaufort Ave,Full Implementation,Permanent,West Side,Bidirectional,2010,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,1301.632587
+94,BIKEFAC3031,Multi-use Pathway,Point Pleasant Park Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,2826.054388
+95,BIKEFAC3032,Multi-use Pathway,Cole Harbour Heritage Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3539.187013
+96,BIKEFAC3033,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,7146.320873
+97,BIKEFAC3034,Multi-use Pathway,Musquodoboit Trailway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAILS GROUP,Interactive,20781.11356
+98,BIKEFAC3035,Multi-use Pathway,Shearwater Flyers Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,511.1206744
+99,BIKEFAC3036,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2234.786475
+100,BIKEFAC3037,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,68.45195523
+101,BIKEFAC3038,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,998.1476042
+102,BIKEFAC3039,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,468.6324612
+103,BIKEFAC3040,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,ROW WALKWAYS,Interactive,157.5293967
+104,BIKEFAC3041,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,ROW WALKWAYS,Interactive,167.90603
+105,BIKEFAC3042,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,82.2775366
+106,BIKEFAC3043,Multi-use Pathway,St Pats Connector MUP,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,134.5490709
+107,BIKEFAC3044,Multi-use Pathway,Burnside Greenway,,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,48.93926225
+108,BIKEFAC3045,Multi-use Pathway,Jason MacCullough Park Pathways,,Partial Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,557.7213446
+109,BIKEFAC3046,Multi-use Pathway,Burnside Greenway,,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,41.54012607
+110,BIKEFAC3047,Multi-use Pathway,Burnside Greenway,,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,1166.208742
+111,BIKEFAC3048,Multi-use Pathway,Burnside Greenway,,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,32.36604777
+112,BIKEFAC3049,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,4754.953724
+113,BIKEFAC3050,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,3388.336691
+114,BIKEFAC3051,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,391.1542643
+115,BIKEFAC3052,Multi-use Pathway,Shubie Park Pedestrian Overpass,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Other,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,652.834929
+116,BIKEFAC3053,Multi-use Pathway,Carrolls Corner Mastadon Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAILS GROUP,Interactive,3859.3208
+117,BIKEFAC3054,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,9.897784256
+118,BIKEFAC3055,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1341.365092
+119,BIKEFAC3056,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,72.42917026
+120,BIKEFAC3057,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,51.7007012
+121,BIKEFAC3058,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1844.755842
+122,BIKEFAC3059,Suggested Bike Route on Local Road,,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,618.2220836
+123,BIKEFAC3060,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,14.64080615
+124,BIKEFAC3061,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,17.16150863
+125,BIKEFAC3062,Multi-use Pathway,MacIntosh Run Community Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,26.61578191
+126,BIKEFAC3063,Multi-use Pathway,Sackville Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,514.5763122
+127,BIKEFAC3064,Multi-use Pathway,Portland Hills Terminal Pathways,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,397.2657662
+128,BIKEFAC3065,Multi-use Pathway,,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,162.4294842
+129,BIKEFAC3066,Multi-use Pathway,Burnside Greenway,,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,685.8930529
+130,BIKEFAC3067,Multi-use Pathway,Barrington Street Greenway,Barrington St,Full Implementation,Permanent,East Side,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,1125.43081
+131,BIKEFAC3068,Multi-use Pathway,Portland Hills Terminal Pathways,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,80.34671041
+132,BIKEFAC3069,Multi-use Pathway,,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,122.8950455
+133,BIKEFAC3070,Multi-use Pathway,Old Lawrencetown Road Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,276.9246722
+134,BIKEFAC3071,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,358.7804932
+135,BIKEFAC3072,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,198.5106064
+136,BIKEFAC3073,Multi-use Pathway,Carrolls Corner Mastadon Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1570.608042
+137,BIKEFAC3074,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,361.7399909
+138,BIKEFAC3075,Multi-use Pathway,,Dunbrack St,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,607.0997372
+139,BIKEFAC3076,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,745.5788564
+140,BIKEFAC3077,Multi-use Pathway,Gaetz Brook Connector,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,422.5494921
+141,BIKEFAC3078,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1326.353858
+142,BIKEFAC3079,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1672.003968
+143,BIKEFAC3080,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,105.1216905
+144,BIKEFAC3081,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,180.7604538
+145,BIKEFAC3082,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,686.8959253
+146,BIKEFAC3083,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,348.5329911
+147,BIKEFAC3084,Multi-use Pathway,Cutler Ave Multi Use Pathway,Culter Ave,Full Implementation,Permanent,West Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,869.2798332
+148,BIKEFAC3085,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,305.6953354
+149,BIKEFAC3086,Multi-use Pathway,,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,937.100416
+150,BIKEFAC3087,Multi-use Pathway,Second Lake Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,759.580424
+151,BIKEFAC3088,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,73.41842266
+152,BIKEFAC3089,Multi-use Pathway,Northbrook Park Pathways,,Full Implementation,Permanent,,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,385.7260211
+153,BIKEFAC3090,Multi-use Pathway,Northbrook Park Pathways,,Full Implementation,Permanent,,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,70.50757984
+154,BIKEFAC3091,Multi-use Pathway,Sackville Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1718.122159
+155,BIKEFAC3092,Multi-use Pathway,Sackville Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,113.0160113
+156,BIKEFAC3093,Multi-use Pathway,Second Lake Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,944.5350092
+157,BIKEFAC3094,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,61.69364443
+158,BIKEFAC3095,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,300.9565768
+159,BIKEFAC3096,Multi-use Pathway,,Gary Martin Dr,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,329.473323
+160,BIKEFAC3097,Multi-use Pathway,,Gary Martin Dr,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,672.0921117
+161,BIKEFAC3098,Multi-use Pathway,,Gary Martin Dr,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,117.6410458
+162,BIKEFAC3099,Multi-use Pathway,,Gary Martin Dr,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,133.3037054
+163,BIKEFAC3100,Multi-use Pathway,,Innovation Dr,Full Implementation,Permanent,North Side,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1025.167823
+164,BIKEFAC3101,Multi-use Pathway,,Innovation Dr,Full Implementation,Permanent,North Side,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,187.0372209
+165,BIKEFAC3102,Multi-use Pathway,,Broad St,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1028.444933
+166,BIKEFAC3103,Multi-use Pathway,,Broad St,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1034.049205
+167,BIKEFAC3104,Multi-use Pathway,,Broad St,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,158.4694256
+168,BIKEFAC3105,Multi-use Pathway,,Broad St,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,434.073853
+169,BIKEFAC3202,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,100.9010419
+170,BIKEFAC3203,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,261.0362125
+171,BIKEFAC3204,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,258.5254888
+172,BIKEFAC3205,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,46.40176869
+173,BIKEFAC3206,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,80.1704975
+174,BIKEFAC3207,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,47.10231634
+175,BIKEFAC3208,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,52.31163687
+176,BIKEFAC3209,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,26.84458966
+177,BIKEFAC3210,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,130.8132051
+178,BIKEFAC3211,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,67.64584517
+179,BIKEFAC3212,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,82.49361925
+180,BIKEFAC3213,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,44.83930507
+181,BIKEFAC3214,Painted Bike Lane,Dunbrack Street Painted Bike Lanes,Dunbrack St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1074.603326
+182,BIKEFAC3215,Painted Bike Lane,Dunbrack Street Painted Bike Lanes,Dunbrack St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1063.346652
+183,BIKEFAC3216,Painted Bike Lane,Purcells Cove Rd Painted Bike Lanes,Purcells Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,55.92723759
+184,BIKEFAC3217,Painted Bike Lane,Purcells Cove Rd Painted Bike Lanes,Purcells Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1548.898822
+185,BIKEFAC3218,Painted Bike Lane,Williams Lake Rd Painted Bike Lanes,Williams Lake Rd,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1470.684941
+186,BIKEFAC3219,Painted Bike Lane,Old Sambro Rd Painted Bike Lanes,Old Sambro Rd,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,865.6914036
+187,BIKEFAC3220,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,191.0570524
+188,BIKEFAC3221,Painted Bike Lane,Purcells Cove Rd Painted Bike Lanes,Purcells Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1720.648977
+189,BIKEFAC3222,Painted Bike Lane,Herring Cove Rd Painted Bike Lanes,Herring Cove Rd,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3234.580439
+190,BIKEFAC3223,Painted Bike Lane,Purcells Cove Rd Painted Bike Lanes,Purcells Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,4164.040067
+191,BIKEFAC3224,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,112.1866172
+192,BIKEFAC3225,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,117.123056
+193,BIKEFAC3226,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,330.1784643
+194,BIKEFAC3227,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,79.23722765
+195,BIKEFAC3228,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,62.98057218
+196,BIKEFAC3229,Painted Bike Lane,Bell Road Painted Bike Lanes,Bell Rd,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,331.7059592
+197,BIKEFAC3230,Painted Bike Lane,Bell Road Painted Bike Lanes,Bell Rd,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,359.0240274
+198,BIKEFAC3231,Painted Bike Lane,South Park Painted Bike Lanes,South Park Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,357.0861522
+199,BIKEFAC3232,Suggested Bike Route on Main Road,,South Park St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,41.13701554
+200,BIKEFAC3233,Painted Bike Lane,Lower Water Street Painted Bike Lane,Lower Water St,Full Implementation,Permanent,East Side,Unidirectional Northbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,242.0006733
+201,BIKEFAC3138,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,34.25775589
+202,BIKEFAC3139,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,29.85891595
+203,BIKEFAC3140,Multi-use Pathway,Cobequid Road Multi Use Pathway,Cobequid Rd,Full Implementation,Permanent,North Side,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,832.7317978
+204,BIKEFAC3141,Multi-use Pathway,George Dixon Centre Pathway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,239.6097299
+205,BIKEFAC3142,Multi-use Pathway,,St Margaretes Bay Rd,Full Implementation,Permanent,North Side,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,512.835207
+206,BIKEFAC3143,Multi-use Pathway,,Hobson Lake Dr,Full Implementation,Permanent,,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,299.6686727
+207,BIKEFAC3144,Multi-use Pathway,Conrose Park MUP,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,155.9669402
+208,BIKEFAC3145,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,412.0196646
+209,BIKEFAC3146,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,66.79068256
+210,BIKEFAC3147,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,4029.855643
+211,BIKEFAC3148,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,145.2731926
+212,BIKEFAC3149,Multi-use Pathway,Blueberry Run Trail,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,125.2609408
+213,BIKEFAC3150,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,ROW WALKWAYS,Interactive,188.1189712
+214,BIKEFAC3151,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1831.213861
+215,BIKEFAC3152,Multi-use Pathway,Old Lawrencetown Road Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1608.938225
+216,BIKEFAC3153,Multi-use Pathway,Old Lawrencetown Road Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,932.0962225
+217,BIKEFAC3154,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2276.554677
+218,BIKEFAC3155,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1937.313189
+219,BIKEFAC3156,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,ORTHO 2006,Interactive,96.1488232
+220,BIKEFAC3157,Multi-use Pathway,Forest Hills Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,122.9963214
+221,BIKEFAC3158,Multi-use Pathway,Baker Drive Multi Use Pathway,Baker Dr,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,1932.63672
+222,BIKEFAC3159,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,1001.212592
+223,BIKEFAC3160,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,236.528194
+224,BIKEFAC3161,Multi-use Pathway,Mount Hope Greenway,Mount Hope Ave,Full Implementation,Permanent,South Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1499.463763
+225,BIKEFAC3162,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,11.61770072
+226,BIKEFAC3163,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,610.6143316
+227,BIKEFAC3164,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,137.7581619
+228,BIKEFAC3165,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,104.5544118
+229,BIKEFAC3166,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,87.24319337
+230,BIKEFAC3167,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,62.25855766
+231,BIKEFAC3168,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,54.29636082
+232,BIKEFAC3169,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,340.7255056
+233,BIKEFAC3170,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,33.6630393
+234,BIKEFAC3171,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,178.9758691
+235,BIKEFAC3172,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,186.9357368
+236,BIKEFAC3173,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,227.5045673
+237,BIKEFAC3174,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,353.1426609
+238,BIKEFAC3175,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,66.66161566
+239,BIKEFAC3176,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,202.760744
+240,BIKEFAC3177,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,108.4057105
+241,BIKEFAC3178,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,84.59965969
+242,BIKEFAC3179,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,38.72482354
+243,BIKEFAC3180,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,398.9952319
+244,BIKEFAC3181,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,6.603229491
+245,BIKEFAC3182,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,127.381845
+246,BIKEFAC3183,Multi-use Pathway,Portland Lakes Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,345.7283747
+247,BIKEFAC3184,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,736.7363088
+248,BIKEFAC3185,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,901.4114578
+249,BIKEFAC3186,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,592.6949819
+250,BIKEFAC3187,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,128.1194913
+251,BIKEFAC3188,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,HRM_TRAIL,Interactive,1264.828261
+252,BIKEFAC3189,Multi-use Pathway,Dartmouth Common Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,448.468164
+253,BIKEFAC3190,Multi-use Pathway,Dartmouth Common Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,281.7143549
+254,BIKEFAC3191,Multi-use Pathway,Dartmouth Common Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,66.44592677
+255,BIKEFAC3192,Multi-use Pathway,Dartmouth Common Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,236.5322511
+256,BIKEFAC3193,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,111.0312402
+257,BIKEFAC3194,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,26.70181667
+258,BIKEFAC3195,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,165.0250474
+259,BIKEFAC3196,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,150.6010669
+260,BIKEFAC3197,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,126.1743699
+261,BIKEFAC3198,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,223.6413278
+262,BIKEFAC3199,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,223.7488599
+263,BIKEFAC3200,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,224.3816316
+264,BIKEFAC3201,Multi-use Pathway,Halifax Common Multi-Use Pathways,,Full Implementation,Permanent,Not Applicable,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,36.45755361
+265,BIKEFAC3310,Painted Bike Lane,Bedford Highway Painted Bike Lanes,Bedford Highway,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3028.511354
+266,BIKEFAC3311,Painted Bike Lane,Bedford Highway Painted Bike Lanes,Bedford Hwy,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,1908.211693
+267,BIKEFAC3312,Painted Bike Lane,Dunbrack Street Painted Bike Lanes,Dunbrack St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1188.437281
+268,BIKEFAC3313,Painted Bike Lane,Dunbrack Street Painted Bike Lanes,Dunbrack St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1190.42873
+269,BIKEFAC3314,Suggested Bike Route on Main Road,,Purcells Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,171.8896088
+270,BIKEFAC3315,Painted Bike Lane,Dunbrack Street Painted Bike Lanes,Dunbrack St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2911.292156
+271,BIKEFAC3316,Suggested Bike Route on Main Road,,Cobequid Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2321.707963
+272,BIKEFAC3317,Suggested Bike Route on Main Road,,Cobequid Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3807.049032
+273,BIKEFAC3318,Suggested Bike Route on Main Road,,Cobequid Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,545.3916948
+274,BIKEFAC3234,Painted Bike Lane,Lower Water Street Painted Bike Lane,Lower Water St,Full Implementation,Permanent,East Side,Unidirectional Northbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,753.7266328
+275,BIKEFAC3235,Painted Bike Lane,Hollis Street Painted Bike Lane,Hollis St,Partial Implementation,Pilot,East Side,Unidirectional Southbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,846.3550425
+276,BIKEFAC3236,Suggested Bike Route on Main Road,,Duke St,,,Y, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,200.9545087
+277,BIKEFAC3237,Painted Bike Lane,Brunswick St Painted Bike Lanes,Brunswick St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,404.1147337
+278,BIKEFAC3238,Painted Bike Lane,Brunswick St Painted Bike Lanes,Brunswick St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,500.6958661
+279,BIKEFAC3239,Painted Bike Lane,North Park Street Painted Bike Lanes,North Park St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,229.1143547
+280,BIKEFAC3240,Painted Bike Lane,Wright Ave Painted Bike Lanes,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1193.955568
+281,BIKEFAC3241,Painted Bike Lane,Hollis Street Painted Bike Lane,Hollis St,Partial Implementation,Pilot,East Side,Unidirectional Southbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,491.2719756
+282,BIKEFAC3242,Painted Bike Lane,Hollis Street Painted Bike Lane,Hollis St,Partial Implementation,Pilot,East Side,Unidirectional Southbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,236.1532411
+283,BIKEFAC3243,Painted Bike Lane,North Park Street Painted Bike Lanes,North Park St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,243.0880498
+284,BIKEFAC3244,Painted Bike Lane,Wright Ave Painted Bike Lanes,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1192.410219
+285,BIKEFAC3245,Painted Bike Lane,Wright Ave Painted Bike Lanes,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,942.9789641
+286,BIKEFAC3246,Painted Bike Lane,Wright Ave Painted Bike Lanes,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,936.046163
+287,BIKEFAC3247,Painted Bike Lane,Wright Ave Painted Bike Lanes,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,414.0720063
+288,BIKEFAC3248,Painted Bike Lane,Wright Ave Painted Bike Lanes,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,417.1024739
+289,BIKEFAC3249,Painted Bike Lane,Wilkinson Ave Painted Bike Lanes,Wilkinson Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1888.308434
+290,BIKEFAC3250,Painted Bike Lane,,Ilsley Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1266.578597
+291,BIKEFAC3251,Multi-use Pathway,Halifax Waterfront Boardwalk,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,53.14259729
+292,BIKEFAC3252,Multi-use Pathway,Halifax Waterfront Boardwalk,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,994.6695035
+293,BIKEFAC3253,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,,635.7110712
+294,BIKEFAC3254,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,,236.1019596
+295,BIKEFAC3255,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,27.09659812
+296,BIKEFAC3256,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,,127.889692
+297,BIKEFAC3257,Multi-use Pathway,Long Lake Trails,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,,22.16805418
+298,BIKEFAC3258,Painted Bike Lane,Main Street Painted Bike Lanes,Main St,,, ,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,527.0073878
+299,BIKEFAC3259,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,206.2276259
+300,BIKEFAC3260,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,49.64512164
+301,BIKEFAC3261,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,294.8834049
+302,BIKEFAC3262,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,235.6039173
+303,BIKEFAC3263,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,255.6945892
+304,BIKEFAC3264,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,CR,Interactive,197.6959312
+305,BIKEFAC3265,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,143.1759294
+306,BIKEFAC3266,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,59.0795095
+307,BIKEFAC3267,Painted Bike Lane,St Margarets Bay Rd Painted Bike Lanes,St Margarets Bay Rd,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,2470.729272
+308,BIKEFAC3268,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,CR,Interactive,60.76878333
+309,BIKEFAC3269,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,409.7735942
+310,BIKEFAC3270,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,185.3857673
+311,BIKEFAC3271,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,233.0944642
+312,BIKEFAC3272,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,262.1090852
+313,BIKEFAC3273,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,58.14988215
+314,BIKEFAC3274,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,51.7303507
+315,BIKEFAC3275,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,56.89482343
+316,BIKEFAC3276,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,57.73362413
+317,BIKEFAC3277,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,58.34592806
+318,BIKEFAC3278,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,CR,Interactive,60.35034665
+319,BIKEFAC3279,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,169.1065855
+320,BIKEFAC3280,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,112.2779456
+321,BIKEFAC3281,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,120.9863192
+322,BIKEFAC3282,Suggested Bike Route on Main Road,,,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,234.1248678
+323,BIKEFAC3283,,,,,, , ,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,18.83254373
+324,BIKEFAC3284,,,,,, , ,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,17.64712776
+325,BIKEFAC3285,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,263.41601
+326,BIKEFAC3286,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,293.7688165
+327,BIKEFAC3287,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,CR,Interactive,197.8286606
+328,BIKEFAC3288,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,148.5864085
+329,BIKEFAC3289,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,111.7495239
+330,BIKEFAC3290,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,205.4823204
+331,BIKEFAC3291,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,117.8698478
+332,BIKEFAC3292,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,362.4198378
+333,BIKEFAC3293,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,177.0979586
+334,BIKEFAC3294,Painted Bike Lane,Horseshoe Lake Dr Painted Bike Lanes,Horseshoe Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,49.07274592
+335,BIKEFAC3295,Painted Bike Lane,Hammonds Plains Rd Painted Bike Lanes,Hammonds Plains Rd,,, ,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,SD,Interactive,1305.989318
+336,BIKEFAC3296,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,51.22674394
+337,BIKEFAC3297,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,195.8903994
+338,BIKEFAC3298,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,428.9596035
+339,BIKEFAC3299,Painted Bike Lane,Sackville Drive Painted Bike Lanes,Sackville Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2653.960444
+340,BIKEFAC3300,Painted Bike Lane,Chain Lake Dr Painted Bike Lanes,Chain Lake Dr,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,DM,Interactive,363.7314332
+341,BIKEFAC3301,Painted Bike Lane,Kearney Lake Dr Painted Bike Lanes,Kearney Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,CR,Interactive,4568.868156
+342,BIKEFAC3302,Painted Bike Lane,Sackville Drive Painted Bike Lanes,Sackville Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,371.3768762
+343,BIKEFAC3303,Painted Bike Lane,,Westwood Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1306.786989
+344,BIKEFAC3304,Painted Bike Lane,Devonshire Painted Bike Lanes,Devonshine Ave,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3280.612528
+345,BIKEFAC3305,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,805.8498263
+346,BIKEFAC3306,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,344.9094503
+347,BIKEFAC3307,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,579.4893616
+348,BIKEFAC3308,Painted Bike Lane,Washmill Lake Drive Painted Bike Lanes,Washmill Lake Dr,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2485.167614
+349,BIKEFAC3309,Painted Bike Lane,Bedford Highway Painted Bike Lanes,Bedford Highway,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2748.19086
+350,BIKEFAC3371,Suggested Bike Route on Main Road,,Rocky Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,7348.394356
+351,BIKEFAC3372,Suggested Bike Route on Main Road,,Waverley Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,12006.95099
+352,BIKEFAC3373,Protected Bike Lane,Macdonald Bridge Bikeway,,Full Implementation,Permanent,North Side,Bidirectional,,Other,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,339.9898936
+353,BIKEFAC3374,Painted Bike Lane,,Waverley Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2989.364025
+354,BIKEFAC3375,Painted Bike Lane,,Commodore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,642.8332991
+355,BIKEFAC3376,Painted Bike Lane,,Commodore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,646.2862099
+356,BIKEFAC3377,Painted Bike Lane,,John Savage Ave,,,North Side,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,856.9587372
+357,BIKEFAC3378,Painted Bike Lane,,Waverley Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1588.905859
+358,BIKEFAC3379,Painted Bike Lane,Waverley Road Painted Bike Lanes,Waverley Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1887.905113
+359,BIKEFAC3380,Painted Bike Lane,,Waverley Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,64.9062804
+360,BIKEFAC3381,Painted Bike Lane,,Cow Bay Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,918.1567078
+361,BIKEFAC3382,Painted Bike Lane,,Caldwell Rd,,,Y, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,389.8333521
+362,BIKEFAC3383,Painted Bike Lane,Caldwell Road Painted Bike Lanes,Caldwell Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2060.942533
+363,BIKEFAC3384,Painted Bike Lane,Main Road Painted Bike Lanes,Main Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3041.407854
+364,BIKEFAC3385,Painted Bike Lane,Hines Road Painted Bike Lanes,Hines Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2842.253827
+365,BIKEFAC3386,Painted Bike Lane,Caldwell Road Painted Bike Lanes,Caldwell Rd,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2449.448279
+366,BIKEFAC3387,Painted Bike Lane,Main Street Painted Bike Lanes,Main St,,, ,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1894.126061
+367,BIKEFAC3388,Painted Bike Lane,Main Street Painted Bike Lanes,Main St,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3713.95873
+368,BIKEFAC3389,Painted Bike Lane,Main Street Painted Bike Lanes,Main St,,, , ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,148.7867131
+369,BIKEFAC3319,Suggested Bike Route on Main Road,,Purcells Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,6019.812991
+370,BIKEFAC3320,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,395.2100662
+371,BIKEFAC3321,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,158.9668271
+372,BIKEFAC3322,Protected Bike Lane,Macdonald Bridge Bikeway,,Full Implementation,Permanent,North Side,Bidirectional,,Other,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,33.69786778
+373,BIKEFAC3323,Protected Bike Lane,Macdonald Bridge Bikeway,,Full Implementation,Permanent,North Side,Bidirectional,,Other,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,26.18921644
+374,BIKEFAC3324,Protected Bike Lane,Macdonald Bridge Bikeway,,Full Implementation,Permanent,North Side,Bidirectional,,Other,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1906.3823
+375,BIKEFAC3325,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,358.7183619
+376,BIKEFAC3326,Suggested Bike Route on Local Road,,Village Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1695.17366
+377,BIKEFAC3327,Suggested Bike Route on Local Road,,Isleville St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,111.9678032
+378,BIKEFAC3328,Suggested Bike Route on Local Road,,Memorial Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,157.7388705
+379,BIKEFAC3329,Suggested Bike Route on Local Road,,Welsford St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,211.2756119
+380,BIKEFAC3330,Suggested Bike Route on Local Road,,Shirley St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,349.8477595
+381,BIKEFAC3331,Suggested Bike Route on Local Road,,Scot St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,237.6091982
+382,BIKEFAC3332,Suggested Bike Route on Local Road,,Quingate Pl,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,14.50239524
+383,BIKEFAC3333,Suggested Bike Route on Local Road,,Hirandale Cres,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,703.9260332
+384,BIKEFAC3334,Suggested Bike Route on Local Road,,Lockview Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,823.0622807
+385,BIKEFAC3335,Suggested Bike Route on Local Road,,Fletcher Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,97.15292447
+386,BIKEFAC3336,Suggested Bike Route on Local Road,,Blue Hill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,707.8705792
+387,BIKEFAC3337,Suggested Bike Route on Local Road,,Sucker Brook Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,243.4252045
+388,BIKEFAC3338,Suggested Bike Route on Main Road,,Novalea Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,680.4006514
+389,BIKEFAC3339,Suggested Bike Route on Local Road,,Leeds St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,112.7547733
+390,BIKEFAC3340,Suggested Bike Route on Local Road,,Leeds St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,685.6153909
+391,BIKEFAC3341,Suggested Bike Route on Local Road,,Leeds St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,254.659625
+392,BIKEFAC3342,Suggested Bike Route on Local Road,,Leaman St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,571.8395386
+393,BIKEFAC3343,Suggested Bike Route on Local Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,712.7225427
+394,BIKEFAC3344,Suggested Bike Route on Local Road,,Isleville St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1695.082886
+395,BIKEFAC3345,Suggested Bike Route on Local Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,168.818101
+396,BIKEFAC3346,Suggested Bike Route on Local Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1163.170851
+397,BIKEFAC3347,Suggested Bike Route on Local Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1164.995021
+398,BIKEFAC3348,Suggested Bike Route on Local Road,,Connolly St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1640.283788
+399,BIKEFAC3349,Suggested Bike Route on Local Road,,Liverpool St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,296.4874713
+400,BIKEFAC3350,Suggested Bike Route on Local Road,,Liverpool St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,816.0780751
+401,BIKEFAC3351,Suggested Bike Route on Local Road,,Connolly St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,338.2595228
+402,BIKEFAC3352,Suggested Bike Route on Local Road,,Romans Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,595.5557318
+403,BIKEFAC3353,Suggested Bike Route on Local Road,,St Andrews Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,236.701352
+404,BIKEFAC3354,Suggested Bike Route on Local Road,,Federal Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,133.0885437
+405,BIKEFAC3355,Suggested Bike Route on Local Road,,Chisholm Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,71.19819832
+406,BIKEFAC3356,Suggested Bike Route on Local Road,,Peter Lowe Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,457.5966069
+407,BIKEFAC3357,Suggested Bike Route on Local Road,,Leppert St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,345.4054104
+408,BIKEFAC3358,Suggested Bike Route on Local Road,,William Hunt Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,100.3085114
+409,BIKEFAC3359,Suggested Bike Route on Local Road,,George Dauphinee Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,539.3720061
+410,BIKEFAC3360,Suggested Bike Route on Local Road,,George Dauphinee Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,357.9121928
+411,BIKEFAC3361,Suggested Bike Route on Local Road,,Vaughan Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,478.2927538
+412,BIKEFAC3362,Suggested Bike Route on Local Road,,Vaughan Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,124.6482539
+413,BIKEFAC3363,Suggested Bike Route on Local Road,,Northwood Ter,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,504.3833165
+414,BIKEFAC3364,Suggested Bike Route on Local Road,,Romans Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,593.9936576
+415,BIKEFAC3365,Suggested Bike Route on Local Road,,Romans Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,80.46687013
+416,BIKEFAC3366,Suggested Bike Route on Local Road,,Fuller Ter,,,,Unidirectional Northbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,500.0437727
+417,BIKEFAC3367,Suggested Bike Route on Local Road,,Bloomfield St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,68.77932605
+418,BIKEFAC3368,Suggested Bike Route on Local Road,,Bloomfield St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,39.43663012
+419,BIKEFAC3369,Suggested Bike Route on Local Road,,Creighton St,,,,Unidirectional Southbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,222.4425237
+420,BIKEFAC3370,Suggested Bike Route on Local Road,,Connolly St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,496.2518916
+421,BIKEFAC3476,Suggested Bike Route on Main Road,,Thomas Raddall Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,129.0973771
+422,BIKEFAC3477,Suggested Bike Route on Main Road,,Langbrae Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1361.305049
+423,BIKEFAC3478,Suggested Bike Route on Main Road,,Glenforest Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1449.109664
+424,BIKEFAC3479,Suggested Bike Route on Local Road,,Willett St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1482.185458
+425,BIKEFAC3480,Suggested Bike Route on Local Road,,Alex St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,259.0564894
+426,BIKEFAC3481,Suggested Bike Route on Local Road,,Alex St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1036.201087
+427,BIKEFAC3482,Suggested Bike Route on Local Road,,Westerwald St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,88.04413997
+428,BIKEFAC3483,Suggested Bike Route on Local Road,,Melrose Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1713.788702
+429,BIKEFAC3484,Suggested Bike Route on Local Road,,Gesner St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,360.1715132
+430,BIKEFAC3485,Suggested Bike Route on Local Road,,Rodedale Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,240.9506287
+431,BIKEFAC3486,Suggested Bike Route on Local Road,,Westerwald St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,194.777704
+432,BIKEFAC3487,Suggested Bike Route on Local Road,,Abott Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,601.7424495
+433,BIKEFAC3488,Suggested Bike Route on Local Road,,Armshore Dr,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,21.88899747
+434,BIKEFAC3489,Suggested Bike Route on Local Road,,Abott Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,76.42771782
+435,BIKEFAC3490,Suggested Bike Route on Local Road,,Anchor Dr,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,702.8855937
+436,BIKEFAC3491,Suggested Bike Route on Local Road,,Armshore Dr,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,386.7865511
+437,BIKEFAC3492,Suggested Bike Route on Local Road,,Glenora Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,450.4386962
+438,BIKEFAC3493,Suggested Bike Route on Local Road,,Colindale St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,856.6923855
+439,BIKEFAC3494,Suggested Bike Route on Local Road,,Dingle Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,799.9595903
+440,BIKEFAC3495,Suggested Bike Route on Local Road,,Dingle Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,52.64649331
+441,BIKEFAC3496,Suggested Bike Route on Local Road,,Roosevelt Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,552.2956251
+442,BIKEFAC3497,Suggested Bike Route on Local Road,,Quinn St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,400.4014477
+443,BIKEFAC3498,Suggested Bike Route on Local Road,,Flinn St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,523.0989976
+444,BIKEFAC3499,Suggested Bike Route on Local Road,,Prince Arthur St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,301.589179
+445,BIKEFAC3500,Suggested Bike Route on Local Road,,Armview Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,503.5540446
+446,BIKEFAC3501,Suggested Bike Route on Local Road,,Pryor St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,322.3661231
+447,BIKEFAC3390,Paved Shoulders,,Larry Uteck Blvd,Full Implementation,Permanent,Not Applicable, ,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1834.858094
+448,BIKEFAC3391,Painted Bike Lane,Main Street Painted Bike Lanes,Main St,,, ,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,815.0118326
+449,BIKEFAC3392,Painted Bike Lane,South Park Painted Bike Lanes,South Park Street,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,355.8268435
+450,BIKEFAC3393,Paved Shoulders,,Hammonds Plains Rd,Full Implementation,Permanent,Not Applicable,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1897.129865
+451,BIKEFAC3394,Paved Shoulders,Prospect Rd Paved Shoulders,Prospect Rd,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,4400.90584
+452,BIKEFAC3395,Paved Shoulders,,,Full Implementation,Permanent,Not Applicable,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,392.8531582
+453,BIKEFAC3396,Suggested Bike Route on Main Road,,,,, ,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,215.6644948
+454,BIKEFAC3397,Paved Shoulders,,Cole Harbour Rd,Full Implementation,Permanent,Not Applicable,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3538.268402
+455,BIKEFAC3398,Paved Shoulders,,Hammonds Plains Rd,Full Implementation,Permanent,Not Applicable,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,7377.181914
+456,BIKEFAC3399,Paved Shoulders,,Hammonds Plains Rd,Full Implementation,Permanent,Not Applicable,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,8136.054875
+457,BIKEFAC3400,Suggested Bike Route on Main Road,,Rocky Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,579.0747585
+458,BIKEFAC3401,Local Street Bikeway,Vernon-Seymour Local Street Bikeway,Vernon St,Partial Implementation,Permanent,Not Applicable,Bidirectional,,None,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,228.6214102
+459,BIKEFAC3402,Suggested Bike Route on Local Road,,Quingate Pl,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,171.037187
+460,BIKEFAC3403,Suggested Bike Route on Local Road,,Quingate Pl,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,155.4573583
+461,BIKEFAC3404,Local Street Bikeway,Vernon-Seymour Local Street Bikeway,Vernon St,Partial Implementation,Permanent,Not Applicable,Bidirectional,,None,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,958.4265395
+462,BIKEFAC3405,Suggested Bike Route on Local Road,,Creighton St,,,,Unidirectional Southbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,367.3277424
+463,BIKEFAC3406,Suggested Bike Route on Local Road,,Maynard St,,,,Unidirectional Northbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,320.0216084
+464,BIKEFAC3407,Suggested Bike Route on Local Road,,Charles St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,560.8676883
+465,BIKEFAC3408,Suggested Bike Route on Local Road,,Charles St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,141.9575907
+466,BIKEFAC3409,Suggested Bike Route on Local Road,,Maynard St,,,,Unidirectional Northbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,225.7094855
+467,BIKEFAC3410,Suggested Bike Route on Local Road,,Maynard St,,,,Unidirectional Northbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,873.7992173
+468,BIKEFAC3411,Suggested Bike Route on Local Road,,Charles St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,175.3534784
+469,BIKEFAC3412,Suggested Bike Route on Local Road,,Charles St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,106.4384426
+470,BIKEFAC3413,Suggested Bike Route on Local Road,,Charles St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,130.8413664
+471,BIKEFAC3414,Suggested Bike Route on Local Road,,Creighton St,,,,Unidirectional Southbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,882.1586418
+472,BIKEFAC3415,Suggested Bike Route on Main Road,,Brunswick St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1120.450119
+473,BIKEFAC3416,Suggested Bike Route on Local Road,,Locks Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,787.0821739
+474,BIKEFAC3417,Suggested Bike Route on Local Road,,True North Cres,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,279.6303927
+475,BIKEFAC3418,Suggested Bike Route on Local Road,,Leaman Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,977.1903746
+476,BIKEFAC3419,Suggested Bike Route on Local Road,,Catherine St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,307.8476738
+477,BIKEFAC3420,Suggested Bike Route on Local Road,,Pinecrest Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1386.178745
+478,BIKEFAC3421,Suggested Bike Route on Local Road,,Brule St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,202.8217701
+479,BIKEFAC3422,Suggested Bike Route on Local Road,,Catherine St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,275.8071237
+480,BIKEFAC3423,Suggested Bike Route on Local Road,,Farrell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,308.5189638
+481,BIKEFAC3424,Suggested Bike Route on Local Road,,Alfred St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,164.4614823
+482,BIKEFAC3425,Suggested Bike Route on Local Road,,Chapman St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,474.1339624
+483,BIKEFAC3426,Suggested Bike Route on Local Road,,Birchwood Terr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,600.6110768
+484,BIKEFAC3427,Suggested Bike Route on Local Road,,Pinehill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,604.7880586
+485,BIKEFAC3428,Suggested Bike Route on Local Road,,Lorraine St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,193.3394377
+486,BIKEFAC3429,Suggested Bike Route on Local Road,,Forest Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,466.6313342
+487,BIKEFAC3430,Suggested Bike Route on Local Road,,Lawnsdale Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,107.4393991
+488,BIKEFAC3431,Suggested Bike Route on Local Road,,Louise Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,109.6360554
+489,BIKEFAC3432,Suggested Bike Route on Local Road,,Clearview Cres,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,412.4755207
+490,BIKEFAC3433,Suggested Bike Route on Local Road,,Lyngby Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,110.8630918
+491,BIKEFAC3434,Suggested Bike Route on Local Road,,Thistle St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,120.7616433
+492,BIKEFAC3435,Suggested Bike Route on Local Road,,Crichton Park Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,39.69351066
+493,BIKEFAC3436,Suggested Bike Route on Local Road,,Crichton Park Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,61.93628307
+494,BIKEFAC3437,Suggested Bike Route on Local Road,,Crichton Park Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,50.37346781
+495,BIKEFAC3438,Suggested Bike Route on Local Road,,Thistle St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,809.6787342
+496,BIKEFAC3439,Suggested Bike Route on Main Road,,Thistle St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,167.847312
+497,BIKEFAC3440,Suggested Bike Route on Local Road,,Slayter St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1451.214751
+498,BIKEFAC3441,Suggested Bike Route on Local Road,,Slayter St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,430.8947155
+499,BIKEFAC3442,Suggested Bike Route on Local Road,,Ropewalk Ln,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,171.4846607
+500,BIKEFAC3443,Suggested Bike Route on Local Road,,School St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,186.7674585
+501,BIKEFAC3444,Suggested Bike Route on Local Road,,Cairn St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,237.1019232
+502,BIKEFAC3445,Suggested Bike Route on Local Road,,Jamieson St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,270.3246386
+503,BIKEFAC3446,Suggested Bike Route on Local Road,,Lyle St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,383.1338738
+504,BIKEFAC3447,Suggested Bike Route on Local Road,,Faulkner St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,151.9679161
+505,BIKEFAC3448,Suggested Bike Route on Local Road,,Dickson St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,114.3404193
+506,BIKEFAC3449,Suggested Bike Route on Local Road,,Shore Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,901.0224305
+507,BIKEFAC3450,Suggested Bike Route on Local Road,,Lyle St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,167.8656254
+508,BIKEFAC3451,Suggested Bike Route on Local Road,,Sophia Cres,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,163.8557346
+509,BIKEFAC3452,Suggested Bike Route on Local Road,,Auburn Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,127.3413025
+510,BIKEFAC3453,Suggested Bike Route on Local Road,,John Stewart Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,114.1255911
+511,BIKEFAC3454,Multi-use Pathway,Old Lawrencetown Road Trail,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,294.7239424
+512,BIKEFAC3455,Suggested Bike Route on Local Road,,Dahlia St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,372.6749617
+513,BIKEFAC3456,Suggested Bike Route on Local Road,,Dahlia St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,363.0464888
+514,BIKEFAC3457,Suggested Bike Route on Local Road,,Brookview Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,591.9046258
+515,BIKEFAC3458,Suggested Bike Route on Local Road,,Patrick Ln,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,311.6524787
+516,BIKEFAC3459,Suggested Bike Route on Main Road,,John Stewart Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,362.9353782
+517,BIKEFAC3460,Suggested Bike Route on Local Road,,Arklow Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,168.3132156
+518,BIKEFAC3461,Suggested Bike Route on Local Road,,Perron Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,137.5778513
+519,BIKEFAC3462,Suggested Bike Route on Local Road,,Chaswood Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,448.239573
+520,BIKEFAC3463,Suggested Bike Route on Local Road,,Delta Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,689.5342221
+521,BIKEFAC3464,Suggested Bike Route on Local Road,,Delta Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,185.8806538
+522,BIKEFAC3465,Suggested Bike Route on Local Road,,Delta Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,160.5725188
+523,BIKEFAC3466,Suggested Bike Route on Local Road,,Shore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1493.281161
+524,BIKEFAC3467,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,44.16619892
+525,BIKEFAC3468,Suggested Bike Route on Local Road,,Shore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,192.3406894
+526,BIKEFAC3469,Suggested Bike Route on Local Road,,Wardour St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,698.1807645
+527,BIKEFAC3470,Suggested Bike Route on Local Road,,Shore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,511.7062794
+528,BIKEFAC3471,Suggested Bike Route on Local Road,,Union St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1353.196579
+529,BIKEFAC3472,Suggested Bike Route on Main Road,,Thomas Raddall Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,917.8200736
+530,BIKEFAC3473,Suggested Bike Route on Local Road,,Westridge Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,448.4817338
+531,BIKEFAC3474,Suggested Bike Route on Main Road,,Thomas Raddall Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,302.0164627
+532,BIKEFAC3475,Suggested Bike Route on Main Road,,Thomas Raddall Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,122.1023081
+533,BIKEFAC3552,Suggested Bike Route on Main Road,,Millwood Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3805.171173
+534,BIKEFAC3553,Suggested Bike Route on Main Road,,Larry Uteck Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2246.27437
+535,BIKEFAC3554,Suggested Bike Route on Main Road,,Beaver Bank Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,875.3162457
+536,BIKEFAC3555,Suggested Bike Route on Main Road,,Beaver Bank Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1254.119281
+537,BIKEFAC3556,Suggested Bike Route on Main Road,,Old Sackville Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,594.5713873
+538,BIKEFAC3557,Suggested Bike Route on Main Road,,Lucasville Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,508.2444006
+539,BIKEFAC3558,Suggested Bike Route on Main Road,,Melham Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,358.5491004
+540,BIKEFAC3559,Suggested Bike Route on Main Road,,Sackville Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,249.6133725
+541,BIKEFAC3560,Suggested Bike Route on Main Road,,Sackville Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,267.4402539
+542,BIKEFAC3561,Suggested Bike Route on Main Road,,Cobequid Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1325.848758
+543,BIKEFAC3562,Suggested Bike Route on Main Road,,Old Sackville Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,6943.982707
+544,BIKEFAC3563,Suggested Bike Route on Main Road,,Old Sackville Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,735.5142571
+545,BIKEFAC3564,Suggested Bike Route on Main Road,,Pinehill Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1038.932129
+546,BIKEFAC3565,Suggested Bike Route on Main Road,,Hammonds Plains Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,777.9719665
+547,BIKEFAC3566,Suggested Bike Route on Main Road,,Glendale Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2994.781406
+548,BIKEFAC3567,Suggested Bike Route on Main Road,,Windsor Junction Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2252.9556
+549,BIKEFAC3568,Suggested Bike Route on Main Road,,Beaver Bank Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,20039.25053
+550,BIKEFAC3569,Suggested Bike Route on Main Road,,Fall River Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3600.522352
+551,BIKEFAC3570,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,90.36218517
+552,BIKEFAC3571,Suggested Bike Route on Main Road,,Fall River Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,411.9908369
+553,BIKEFAC3502,Suggested Bike Route on Local Road,,Jubilee Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,628.1662441
+554,BIKEFAC3503,Suggested Bike Route on Local Road,,Woodlawn Ter,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,199.5705107
+555,BIKEFAC3504,Suggested Bike Route on Local Road,,Norwood St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,431.5669942
+556,BIKEFAC3505,Suggested Bike Route on Local Road,,Point Pleasant Dr,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,435.9118602
+557,BIKEFAC3506,Suggested Bike Route on Local Road,,Parkwood Pl,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,76.06926399
+558,BIKEFAC3507,Suggested Bike Route on Local Road,,Parkwood Pl,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,194.3325908
+559,BIKEFAC3508,Suggested Bike Route on Local Road,,Point Pleasant Dr,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,316.1000762
+560,BIKEFAC3509,Suggested Bike Route on Local Road,,Point Pleasant Dr,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,701.8618772
+561,BIKEFAC3510,Suggested Bike Route on Local Road,,Robie St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1173.847282
+562,BIKEFAC3511,Suggested Bike Route on Local Road,,Inglis St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,706.9843726
+563,BIKEFAC3512,Suggested Bike Route on Local Road,,Young Ave,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1270.468591
+564,BIKEFAC3513,Suggested Bike Route on Local Road,,Young Ave,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1098.991922
+565,BIKEFAC3514,Suggested Bike Route on Local Road,,Conrose Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,145.469374
+566,BIKEFAC3515,Suggested Bike Route on Local Road,,Beech St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,224.8042679
+567,BIKEFAC3516,Suggested Bike Route on Local Road,,Geldert St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,101.7525579
+568,BIKEFAC3517,Suggested Bike Route on Local Road,,Seymour St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,335.8430223
+569,BIKEFAC3518,Suggested Bike Route on Local Road,,Seymour St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,254.6168752
+570,BIKEFAC3519,Suggested Bike Route on Local Road,,Elm St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,348.823809
+571,BIKEFAC3520,Suggested Bike Route on Local Road,,Oak St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,239.9577149
+572,BIKEFAC3521,Suggested Bike Route on Local Road,,Oak St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,114.0152852
+573,BIKEFAC3522,Suggested Bike Route on Local Road,,Shirley St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,533.6198905
+574,BIKEFAC3523,Suggested Bike Route on Local Road,,Norwood St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,536.8595751
+575,BIKEFAC3524,Suggested Bike Route on Local Road,,Preston St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,69.39189914
+576,BIKEFAC3525,Suggested Bike Route on Local Road,,Beech St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,313.3615422
+577,BIKEFAC3526,Suggested Bike Route on Local Road,,Beech St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,665.1731302
+578,BIKEFAC3527,Suggested Bike Route on Local Road,,Allan St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,810.5003664
+579,BIKEFAC3528,Suggested Bike Route on Local Road,,Harvard St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,315.8460824
+580,BIKEFAC3529,Suggested Bike Route on Local Road,,Willow St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,148.5989028
+581,BIKEFAC3530,Suggested Bike Route on Local Road,,Harvard St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,376.7303704
+582,BIKEFAC3531,Suggested Bike Route on Local Road,,Willow St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,575.6084278
+583,BIKEFAC3532,Suggested Bike Route on Local Road,,Willow St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,47.36774535
+584,BIKEFAC3533,Suggested Bike Route on Local Road,,Gladstone St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,117.2217516
+585,BIKEFAC3534,Suggested Bike Route on Main Road,,St Margarets Bay Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,7277.453413
+586,BIKEFAC3535,Suggested Bike Route on Main Road,,Waverley Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,13552.63496
+587,BIKEFAC3536,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,16.57737471
+588,BIKEFAC3537,Suggested Bike Route on Main Road,,Prospect Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,45880.57631
+589,BIKEFAC3538,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,18.83832548
+590,BIKEFAC3539,Suggested Bike Route on Main Road,,Fall River Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,955.6492727
+591,BIKEFAC3540,Suggested Bike Route on Main Road,,Peggys Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,35349.69276
+592,BIKEFAC3541,Suggested Bike Route on Main Road,,Hebridean Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1100.293246
+593,BIKEFAC3542,Suggested Bike Route on Main Road,,Purcells Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1950.215092
+594,BIKEFAC3543,Suggested Bike Route on Main Road,,Main St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,515.1942239
+595,BIKEFAC3544,Suggested Bike Route on Main Road,,Larry Uteck Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3791.068863
+596,BIKEFAC3545,Suggested Bike Route on Main Road,,Lakeside Park Dr,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,484.1170168
+597,BIKEFAC3546,Suggested Bike Route on Main Road,,Lakeside Park Dr,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,75.00821438
+598,BIKEFAC3547,Suggested Bike Route on Main Road,,Trollope St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,421.8285291
+599,BIKEFAC3548,Suggested Bike Route on Main Road,,Lockview Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,939.5101447
+600,BIKEFAC3549,Suggested Bike Route on Main Road,,Bayers Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,308.8869336
+601,BIKEFAC3550,Suggested Bike Route on Main Road,,Hammonds Plains Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,604.4660179
+602,BIKEFAC3551,Suggested Bike Route on Main Road,,St Margarets Bay Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1436.237312
+603,BIKEFAC3632,Suggested Bike Route on Main Road,,Leiblin Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2751.92571
+604,BIKEFAC3633,Suggested Bike Route on Main Road,,Rockingstone Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,450.6527709
+605,BIKEFAC3634,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,5360.723274
+606,BIKEFAC3635,Suggested Bike Route on Main Road,,Terminal Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2583.301634
+607,BIKEFAC3636,Suggested Bike Route on Main Road,,Terminal Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,150.5927744
+608,BIKEFAC3637,Suggested Bike Route on Main Road,,Hollis St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,346.2899601
+609,BIKEFAC3638,Suggested Bike Route on Main Road,,Barrington St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,474.7750722
+610,BIKEFAC3639,Suggested Bike Route on Main Road,,Hollis St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,50.93686705
+611,BIKEFAC3640,Suggested Bike Route on Main Road,,Inglis St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,748.3449358
+612,BIKEFAC3641,Suggested Bike Route on Main Road,,Inglis St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,856.480276
+613,BIKEFAC3642,Suggested Bike Route on Main Road,,Glendale Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2257.918748
+614,BIKEFAC3643,Suggested Bike Route on Main Road,,Cobequid Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,952.428562
+615,BIKEFAC3644,Painted Bike Lane,Hammonds Plains Rd Painted Bike Lanes,Hammonds Plains Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,532.196965
+616,BIKEFAC3645,Suggested Bike Route on Main Road,,Lady Hammond Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,205.5701164
+617,BIKEFAC3646,Suggested Bike Route on Main Road,,Lady Hammond Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,190.6760128
+618,BIKEFAC3647,Suggested Bike Route on Main Road,,Lady Hammond Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,795.0106921
+619,BIKEFAC3648,Paved Shoulders,,Ketch Harbour Rd,Full Implementation,Permanent,Not Applicable,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,20867.60461
+620,BIKEFAC3649,Suggested Bike Route on Main Road,,Lady Hammond Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,873.0492849
+621,BIKEFAC3572,Suggested Bike Route on Main Road,,Windgate Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,6506.64104
+622,BIKEFAC3573,Suggested Bike Route on Main Road,,Bluewater Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2369.175231
+623,BIKEFAC3574,Suggested Bike Route on Main Road,,Windsor Junction Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2632.793947
+624,BIKEFAC3575,Suggested Bike Route on Main Road,,Main St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,36.98314338
+625,BIKEFAC3576,Suggested Bike Route on Local Road,,Chaswood Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1242.964135
+626,BIKEFAC3577,Suggested Bike Route on Local Road,,Chaswood Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,447.8343839
+627,BIKEFAC3578,Suggested Bike Route on Local Road,,Bellbrook Cr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1119.15033
+628,BIKEFAC3579,Suggested Bike Route on Local Road,,Havenbrrok Hill,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,320.5365254
+629,BIKEFAC3580,Suggested Bike Route on Local Road,,Edgewater Cl,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,345.303233
+630,BIKEFAC3581,Suggested Bike Route on Local Road,,Waterside Tr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,262.913984
+631,BIKEFAC3582,Suggested Bike Route on Local Road,,Dorthea Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1424.721003
+632,BIKEFAC3583,Suggested Bike Route on Local Road,,Lucien Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1383.163802
+633,BIKEFAC3584,Suggested Bike Route on Local Road,,Lakecrest Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,866.730881
+634,BIKEFAC3585,Suggested Bike Route on Local Road,,Athorpe Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1269.894817
+635,BIKEFAC3586,Suggested Bike Route on Main Road,,Gordon Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,144.6270369
+636,BIKEFAC3587,Suggested Bike Route on Main Road,,Main St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,213.6432248
+637,BIKEFAC3588,Suggested Bike Route on Local Road,,Oakwood Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,457.2633921
+638,BIKEFAC3589,Suggested Bike Route on Local Road,,Athorpe Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,83.58685391
+639,BIKEFAC3590,Suggested Bike Route on Local Road,,Bowser St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,268.5679469
+640,BIKEFAC3591,Suggested Bike Route on Local Road,,Oakwood Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,209.2753216
+641,BIKEFAC3592,Suggested Bike Route on Local Road,,Prince Arthur Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,291.8425916
+642,BIKEFAC3593,Suggested Bike Route on Local Road,,Prince Arthur Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1003.365119
+643,BIKEFAC3594,Suggested Bike Route on Local Road,,Research Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,784.7511822
+644,BIKEFAC3595,Suggested Bike Route on Local Road,,Fenwick St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,399.7537427
+645,BIKEFAC3596,Suggested Bike Route on Local Road,,Neptune Cr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,684.2733527
+646,BIKEFAC3597,Suggested Bike Route on Local Road,,Harris Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,295.8523545
+647,BIKEFAC3598,Multi-use Pathway,Mount Hope Greenway,Atlantic St,Full Implementation,Permanent,South Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,900.2719753
+648,BIKEFAC3599,Suggested Bike Route on Local Road,,Prince Arthur Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,292.8111437
+649,BIKEFAC3600,Suggested Bike Route on Local Road,,Acadia St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,947.7486921
+650,BIKEFAC3601,Multi-use Pathway,Dartmouth Harbourfront Greenway,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,51.25397338
+651,BIKEFAC3602,Suggested Bike Route on Local Road,,Harris Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,903.2375594
+652,BIKEFAC3603,Suggested Bike Route on Local Road,,Somerset St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,629.173647
+653,BIKEFAC3604,Suggested Bike Route on Local Road,,Jean St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,206.3787275
+654,BIKEFAC3605,Suggested Bike Route on Local Road,,Penhorn Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,123.8046721
+655,BIKEFAC3606,Suggested Bike Route on Local Road,,Harris Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,545.0830869
+656,BIKEFAC3607,Suggested Bike Route on Local Road,,Penhorn Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,126.3863452
+657,BIKEFAC3608,Suggested Bike Route on Local Road,,Penhorn Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,160.0225785
+658,BIKEFAC3609,Suggested Bike Route on Local Road,,Celtic Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1067.881578
+659,BIKEFAC3610,Suggested Bike Route on Local Road,,Oathill Cr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,201.267183
+660,BIKEFAC3611,Suggested Bike Route on Local Road,,Peddars Way,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,678.4830262
+661,BIKEFAC3612,Suggested Bike Route on Local Road,,Manor Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,126.0038049
+662,BIKEFAC3613,Suggested Bike Route on Main Road,Pleasant St,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,399.7415151
+663,BIKEFAC3614,Suggested Bike Route on Local Road,,Dingle Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,62.56617273
+664,BIKEFAC3615,Suggested Bike Route on Main Road,,Ketch Harbour Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1313.870626
+665,BIKEFAC3616,Paved Shoulders,,Old Sambro Rd,Full Implementation,Permanent,Not Applicable,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,20880.88771
+666,BIKEFAC3617,Suggested Bike Route on Main Road,,Dutch Village Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,856.8653867
+667,BIKEFAC3618,Suggested Bike Route on Main Road,,Lacewood Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,308.7913005
+668,BIKEFAC3619,Suggested Bike Route on Main Road,,Bayers Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,221.8225639
+669,BIKEFAC3620,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,108.9213517
+670,BIKEFAC3621,Suggested Bike Route on Main Road,,St Margarets Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2253.321493
+671,BIKEFAC3622,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,79.84470072
+672,BIKEFAC3623,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,302.2663949
+673,BIKEFAC3624,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,110.6957569
+674,BIKEFAC3625,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1850.129321
+675,BIKEFAC3626,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1126.279102
+676,BIKEFAC3627,Suggested Bike Route on Main Road,,Williams Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,635.2204676
+677,BIKEFAC3628,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,850.0127016
+678,BIKEFAC3629,Suggested Bike Route on Main Road,,Old Sambro Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1272.913955
+679,BIKEFAC3630,Suggested Bike Route on Main Road,,Herring Cove Rd,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,754.0374069
+680,BIKEFAC3631,Suggested Bike Route on Main Road,,Sussex St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,859.246236
+681,BIKEFAC3698,Suggested Bike Route on Main Road,,Upper Water St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1326.577058
+682,BIKEFAC3699,Painted Bike Lane,North Park Street Painted Bike Lanes,North Park St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,160.1339495
+683,BIKEFAC3700,Painted Bike Lane,North Park Street Painted Bike Lanes,North Park St,Full Implementation,Permanent,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,161.2819564
+684,BIKEFAC3701,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,595.8903453
+685,BIKEFAC3702,Suggested Bike Route on Main Road,,Cornwallis St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,368.811045
+686,BIKEFAC3703,Suggested Bike Route on Main Road,,Cornwallis St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,108.4739976
+687,BIKEFAC3704,Suggested Bike Route on Main Road,,Cornwallis St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,160.9217713
+688,BIKEFAC3705,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,229.1613964
+689,BIKEFAC3706,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,130.8810297
+690,BIKEFAC3707,Suggested Bike Route on Main Road,,Ilsley Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,112.7399911
+691,BIKEFAC3708,Painted Bike Lane,,Ilsley Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,86.00499244
+692,BIKEFAC3709,Suggested Bike Route on Main Road,,Commodore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,729.7267987
+693,BIKEFAC3710,Suggested Bike Route on Main Road,,Commodore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,324.9054784
+694,BIKEFAC3711,Suggested Bike Route on Main Road,,Highfield Park Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1693.033901
+695,BIKEFAC3712,Suggested Bike Route on Main Road,,John Savage Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,206.3044313
+696,BIKEFAC3713,Suggested Bike Route on Main Road,,Commodore Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2530.114285
+697,BIKEFAC3714,Suggested Bike Route on Main Road,,Ilsley Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,902.4168086
+698,BIKEFAC3715,Suggested Bike Route on Main Road,,Highfield Park Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,101.9939183
+699,BIKEFAC3716,Suggested Bike Route on Main Road,,Boland Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,429.5946543
+700,BIKEFAC3717,Suggested Bike Route on Main Road,,Boland Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,241.8193318
+701,BIKEFAC3718,Suggested Bike Route on Main Road,,Albro Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,369.3807265
+702,BIKEFAC3719,Suggested Bike Route on Main Road,,Albro Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,311.9976026
+703,BIKEFAC3720,Suggested Bike Route on Main Road,,Albro Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,118.3477973
+704,BIKEFAC3721,Suggested Bike Route on Main Road,,Albro Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,338.2843084
+705,BIKEFAC3722,Suggested Bike Route on Main Road,,Albro Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,599.9008355
+706,BIKEFAC3723,Suggested Bike Route on Main Road,,Albro Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,347.5626392
+707,BIKEFAC3724,Suggested Bike Route on Main Road,,Sea King Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,672.1240691
+708,BIKEFAC3725,Suggested Bike Route on Main Road,,Albro Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,157.1610515
+709,BIKEFAC3726,Suggested Bike Route on Main Road,,Windmill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,46.89015342
+710,BIKEFAC3727,Suggested Bike Route on Main Road,,Windmill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,4050.759099
+711,BIKEFAC3728,Suggested Bike Route on Main Road,,Windmill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1058.866139
+712,BIKEFAC3729,Suggested Bike Route on Main Road,,Windmill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,655.9539134
+713,BIKEFAC3730,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,955.0389897
+714,BIKEFAC3731,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,30.95780837
+715,BIKEFAC3732,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,390.3422722
+716,BIKEFAC3733,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,188.6421176
+717,BIKEFAC3734,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,169.5011002
+718,BIKEFAC3650,Suggested Bike Route on Local Road,,Africville Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2887.004118
+719,BIKEFAC3651,Suggested Bike Route on Local Road,,Africville Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,734.6558012
+720,BIKEFAC3652,Suggested Bike Route on Local Road,,Africville Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,224.8557295
+721,BIKEFAC3653,Suggested Bike Route on Main Road,,Lady Hammond Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,318.207091
+722,BIKEFAC3654,Suggested Bike Route on Main Road,,Windsor St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,584.1470589
+723,BIKEFAC3655,Suggested Bike Route on Main Road,,Windsor St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,108.8785559
+724,BIKEFAC3656,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,543.0795003
+725,BIKEFAC3657,Suggested Bike Route on Main Road,,Almon St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,851.8093458
+726,BIKEFAC3658,Suggested Bike Route on Main Road,,Almon St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,863.8258114
+727,BIKEFAC3659,Suggested Bike Route on Main Road,,Almon St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,313.3034996
+728,BIKEFAC3660,Suggested Bike Route on Main Road,,Kearney Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,962.4417318
+729,BIKEFAC3661,Suggested Bike Route on Main Road,,Almon St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,199.3975344
+730,BIKEFAC3662,Suggested Bike Route on Main Road,,Almon St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,196.487299
+731,BIKEFAC3663,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,611.0588692
+732,BIKEFAC3664,Suggested Bike Route on Main Road,,Kearney Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,552.0936119
+733,BIKEFAC3665,Suggested Bike Route on Main Road,,Kearney Lake Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,814.8130754
+734,BIKEFAC3666,Suggested Bike Route on Main Road,,Bedford Hwy,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,338.1505732
+735,BIKEFAC3667,Suggested Bike Route on Main Road,,Dunbrack St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,495.9085973
+736,BIKEFAC3668,Suggested Bike Route on Main Road,,Dunbrack St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,299.7578164
+737,BIKEFAC3669,Suggested Bike Route on Main Road,,Dunbrack St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,489.7708739
+738,BIKEFAC3670,Suggested Bike Route on Main Road,,Parkland Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2348.765101
+739,BIKEFAC3671,Suggested Bike Route on Main Road,,Parkland Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,83.4043164
+740,BIKEFAC3672,Suggested Bike Route on Main Road,,Regency Park Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,858.0957013
+741,BIKEFAC3673,Suggested Bike Route on Main Road,,Regency Park Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,64.28389774
+742,BIKEFAC3674,Suggested Bike Route on Main Road,,Parkland Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2009.301142
+743,BIKEFAC3675,Suggested Bike Route on Main Road,,Parkland Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,82.96668177
+744,BIKEFAC3676,Suggested Bike Route on Local Road,,Greenpark Cl,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,475.6032921
+745,BIKEFAC3677,Suggested Bike Route on Main Road,,Washmill Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1246.368182
+746,BIKEFAC3678,Suggested Bike Route on Main Road,,Susie Lake Cr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,311.7756652
+747,BIKEFAC3679,Suggested Bike Route on Main Road,,Chain Lake Dr,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,223.3361967
+748,BIKEFAC3680,Suggested Bike Route on Main Road,,Chain Lake Dr,,,,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,233.4577605
+749,BIKEFAC3681,Suggested Bike Route on Main Road,,Susie Lake Cr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,299.9658075
+750,BIKEFAC3682,Suggested Bike Route on Main Road,,Chain Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,413.780516
+751,BIKEFAC3683,Suggested Bike Route on Main Road,,Chain Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,95.26717563
+752,BIKEFAC3684,Suggested Bike Route on Main Road,,Chain Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,892.8139898
+753,BIKEFAC3685,Suggested Bike Route on Main Road,,Chain Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,882.3189536
+754,BIKEFAC3686,Suggested Bike Route on Main Road,,Willett St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,777.6730462
+755,BIKEFAC3687,Suggested Bike Route on Main Road,,Horseshoe Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,718.5990461
+756,BIKEFAC3688,Suggested Bike Route on Main Road,,Horseshoe Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,172.8338668
+757,BIKEFAC3689,Suggested Bike Route on Main Road,,Horseshoe Lake Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,172.4317982
+758,BIKEFAC3690,Suggested Bike Route on Main Road,,Willett St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,400.3547631
+759,BIKEFAC3691,Suggested Bike Route on Main Road,,Willett St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,198.0434882
+760,BIKEFAC3692,Suggested Bike Route on Main Road,,Titus St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,619.9142674
+761,BIKEFAC3693,Suggested Bike Route on Main Road,,Dutch Village Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,56.76332022
+762,BIKEFAC3694,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,56.74799465
+763,BIKEFAC3695,Suggested Bike Route on Main Road,,Brunswick St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,477.8264512
+764,BIKEFAC3696,Suggested Bike Route on Main Road,,Upper Water St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,366.1274141
+765,BIKEFAC3697,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,215.7279292
+766,BIKEFAC3821,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,52.13836578
+767,BIKEFAC3822,Suggested Bike Route on Main Road,,Ross Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3797.897791
+768,BIKEFAC3823,Suggested Bike Route on Main Road,,Main St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1695.374362
+769,BIKEFAC3824,Suggested Bike Route on Main Road,,Forest Hills Pkwy,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3812.591834
+770,BIKEFAC3825,Suggested Bike Route on Main Road,,Cole Harbour Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,942.1872832
+771,BIKEFAC3826,Suggested Bike Route on Main Road,,Cole Harbour Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,356.0267587
+772,BIKEFAC3827,Suggested Bike Route on Main Road,,Cole Harbour Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,68.19951044
+773,BIKEFAC3828,Suggested Bike Route on Main Road,,Cumberland Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,903.5433882
+774,BIKEFAC3829,Suggested Bike Route on Main Road,,Caldwell Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1073.848419
+775,BIKEFAC3830,Suggested Bike Route on Main Road,,Mount Edward Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1678.310928
+776,BIKEFAC3831,Suggested Bike Route on Local Road,,Lakecrest Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,194.3425614
+777,BIKEFAC3832,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,946.8627103
+778,BIKEFAC3833,Suggested Bike Route on Main Road,,Mount Edward Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1707.222433
+779,BIKEFAC3834,Suggested Bike Route on Local Road,,Carters Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,308.329833
+780,BIKEFAC3835,Suggested Bike Route on Main Road,,Main St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,377.4011684
+781,BIKEFAC3836,Suggested Bike Route on Main Road,,Main St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,146.542495
+782,BIKEFAC3837,Suggested Bike Route on Main Road,,Tacoma Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,541.6809256
+783,BIKEFAC3838,Suggested Bike Route on Main Road,,Tacoma Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,542.3370425
+784,BIKEFAC3839,Suggested Bike Route on Main Road,,Gordon Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,44.97367343
+785,BIKEFAC3840,Suggested Bike Route on Main Road,,Gordon Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,171.4159315
+786,BIKEFAC3841,Suggested Bike Route on Main Road,,Tacoma Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,113.5062747
+787,BIKEFAC3735,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,169.4260684
+788,BIKEFAC3736,Protected Bike Lane,Macdonald Bridge Bikeway,,Full Implementation,Permanent,North Side,Bidirectional,,Other,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,273.8841738
+789,BIKEFAC3737,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,579.1870211
+790,BIKEFAC3738,Suggested Bike Route on Main Road,,Wyse Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,464.0828009
+791,BIKEFAC3739,Suggested Bike Route on Main Road,,Nantucket Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,674.8286026
+792,BIKEFAC3740,Suggested Bike Route on Main Road,,Windmill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,732.7130851
+793,BIKEFAC3741,Suggested Bike Route on Main Road,,Windmill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,677.4567063
+794,BIKEFAC3742,Suggested Bike Route on Main Road,,Windmill Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,202.9742775
+795,BIKEFAC3743,Suggested Bike Route on Main Road,,Nantucket Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,78.39488496
+796,BIKEFAC3744,Suggested Bike Route on Main Road,,Micmac Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1464.379835
+797,BIKEFAC3745,Suggested Bike Route on Main Road,,Lancaster Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,321.0366123
+798,BIKEFAC3746,Suggested Bike Route on Main Road,,Micmac Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,523.1811188
+799,BIKEFAC3747,Suggested Bike Route on Main Road,,Lancaster Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,386.5402323
+800,BIKEFAC3748,Suggested Bike Route on Main Road,,Caledonia Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2654.448532
+801,BIKEFAC3749,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,105.3942359
+802,BIKEFAC3750,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,176.9729901
+803,BIKEFAC3751,Suggested Bike Route on Main Road,,Gottingen St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,169.7661049
+804,BIKEFAC3752,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,282.3681771
+805,BIKEFAC3753,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,88.41964566
+806,BIKEFAC3754,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,172.0604522
+807,BIKEFAC3755,Suggested Bike Route on Main Road,,Isnor Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1245.650614
+808,BIKEFAC3756,Suggested Bike Route on Main Road,,Gottingen St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,64.80190413
+809,BIKEFAC3757,Suggested Bike Route on Main Road,,Gottingen St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,53.26233517
+810,BIKEFAC3758,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,43.37588965
+811,BIKEFAC3759,Suggested Bike Route on Main Road,,Joseph Zatzman Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2171.168198
+812,BIKEFAC3760,Suggested Bike Route on Main Road,,Wright Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,557.0066475
+813,BIKEFAC3761,Suggested Bike Route on Main Road,,Wright Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1482.306444
+814,BIKEFAC3762,Suggested Bike Route on Main Road,,Wright Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,422.0669064
+815,BIKEFAC3763,Suggested Bike Route on Main Road,,John Savage Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1484.34273
+816,BIKEFAC3764,Suggested Bike Route on Main Road,,South Park St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,905.1179934
+817,BIKEFAC3765,Suggested Bike Route on Main Road,,Robie St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,932.1338845
+818,BIKEFAC3766,Suggested Bike Route on Main Road,,Robie St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,928.5152408
+819,BIKEFAC3767,Suggested Bike Route on Main Road,,Coburg Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,781.6093257
+820,BIKEFAC3768,Suggested Bike Route on Main Road,,South St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,835.464632
+821,BIKEFAC3769,Suggested Bike Route on Main Road,,Coburg Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,327.1837917
+822,BIKEFAC3770,Suggested Bike Route on Main Road,,Oxford St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,575.7861375
+823,BIKEFAC3771,Suggested Bike Route on Local Road,,,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,16.24245711
+824,BIKEFAC3772,Suggested Bike Route on Main Road,,Coburg Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,382.8268716
+825,BIKEFAC3773,Suggested Bike Route on Main Road,,Chebucto Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1195.984912
+826,BIKEFAC3774,Suggested Bike Route on Main Road,,Chebucto Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,126.5584615
+827,BIKEFAC3775,Suggested Bike Route on Main Road,,Chebucto Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,742.0100768
+828,BIKEFAC3776,Suggested Bike Route on Main Road,,Chebucto Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,28.8453771
+829,BIKEFAC3777,Suggested Bike Route on Main Road,,Chebucto Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,272.296736
+830,BIKEFAC3778,Suggested Bike Route on Main Road,,Chebucto Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,148.0285563
+831,BIKEFAC3779,Suggested Bike Route on Main Road,,Chebucto Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,685.2263291
+832,BIKEFAC3780,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,91.21922292
+833,BIKEFAC3781,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,44.7729163
+834,BIKEFAC3782,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,754.6141173
+835,BIKEFAC3783,Suggested Bike Route on Main Road,,Quinpool Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,347.5880026
+836,BIKEFAC3784,Suggested Bike Route on Main Road,,Quinpool Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,144.3370621
+837,BIKEFAC3785,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,437.7943661
+838,BIKEFAC3786,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,448.2490041
+839,BIKEFAC3787,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,430.3398662
+840,BIKEFAC3788,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,429.1976159
+841,BIKEFAC3789,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,395.3340747
+842,BIKEFAC3790,Suggested Bike Route on Main Road,,Summer St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,386.2791373
+843,BIKEFAC3791,Suggested Bike Route on Main Road,,University Ave,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,57.74087964
+844,BIKEFAC3792,Suggested Bike Route on Main Road,,University Ave,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,59.27926209
+845,BIKEFAC3793,Suggested Bike Route on Main Road,,Summer St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,386.1395243
+846,BIKEFAC3794,Suggested Bike Route on Main Road,,Spring Garden Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,419.2919744
+847,BIKEFAC3795,Suggested Bike Route on Main Road,,Summer St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,859.2924647
+848,BIKEFAC3796,Suggested Bike Route on Main Road,,Summer St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,368.9009955
+849,BIKEFAC3797,Suggested Bike Route on Main Road,,Spring Garden Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,424.4351407
+850,BIKEFAC3798,Suggested Bike Route on Main Road,,Morris St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1010.578479
+851,BIKEFAC3799,Suggested Bike Route on Main Road,,Morris St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,149.024312
+852,BIKEFAC3800,Suggested Bike Route on Main Road,,Spring Garden Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,580.3959043
+853,BIKEFAC3801,Suggested Bike Route on Main Road,,Brunswick St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,344.8491264
+854,BIKEFAC3802,Suggested Bike Route on Main Road,,Spring Garden Rd,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,278.3299447
+855,BIKEFAC3803,Protected Bike Lane,University Ave Protected Bike Lanes,University Ave,Partial Implementation,Pilot,Not Applicable,Bidirectional,,Flexible bollards,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,159.2210176
+856,BIKEFAC3804,Suggested Bike Route on Main Road,,Lower Water St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,330.4176211
+857,BIKEFAC3805,Suggested Bike Route on Main Road,,Lower Water St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,74.49745753
+858,BIKEFAC3806,Suggested Bike Route on Main Road,,Duke St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,95.86656122
+859,BIKEFAC3807,Suggested Bike Route on Main Road,,North St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,724.7928254
+860,BIKEFAC3808,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,674.1168638
+861,BIKEFAC3809,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,681.8082499
+862,BIKEFAC3810,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,46.87382324
+863,BIKEFAC3811,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,55.32361715
+864,BIKEFAC3812,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,36.55450913
+865,BIKEFAC3813,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,48.83905502
+866,BIKEFAC3814,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,116.644778
+867,BIKEFAC3815,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,120.8820912
+868,BIKEFAC3816,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,78.64282585
+869,BIKEFAC3817,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,70.46738769
+870,BIKEFAC3818,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,410.2693399
+871,BIKEFAC3819,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,357.343259
+872,BIKEFAC3820,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,62.67475449
+873,BIKEFAC3881,Suggested Bike Route on Main Road,,Caldwell Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1430.820018
+874,BIKEFAC3882,Suggested Bike Route on Main Road,,Caldwell Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1385.72896
+875,BIKEFAC3883,Suggested Bike Route on Local Road,,Hornes Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1431.020173
+876,BIKEFAC3884,Suggested Bike Route on Main Road,,Shore Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2009.02409
+877,BIKEFAC3885,Suggested Bike Route on Main Road,,Shore Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1781.293106
+878,BIKEFAC3886,Suggested Bike Route on Local Road,,Oceanlea Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1067.959514
+879,BIKEFAC3887,Suggested Bike Route on Main Road,,Cow Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,354.2270545
+880,BIKEFAC3888,Painted Bike Lane,Main Road Painted Bike Lanes,Main Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,134.1300094
+881,BIKEFAC3889,Suggested Bike Route on Main Road,,Cow Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1397.041249
+882,BIKEFAC3890,Suggested Bike Route on Main Road,,Cow Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,649.1639826
+883,BIKEFAC3891,Suggested Bike Route on Main Road,,Hines Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1286.41922
+884,BIKEFAC3892,Suggested Bike Route on Main Road,,Caldwell Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1536.373932
+885,BIKEFAC3893,Suggested Bike Route on Main Road,,Caldwell Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1621.489051
+886,BIKEFAC3894,Suggested Bike Route on Main Road,,Bissett Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,6790.66421
+887,BIKEFAC3895,Suggested Bike Route on Main Road,,Main St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,419.638249
+888,BIKEFAC3896,Suggested Bike Route on Main Road,,Bissett Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,853.2767149
+889,BIKEFAC3897,Multi-use Pathway,Northbrook Park Pathways,,Full Implementation,Permanent,,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,138.3649947
+890,BIKEFAC3898,Multi-use Pathway,First Lake Greenway,,,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2059.206831
+891,BIKEFAC3899,Multi-use Pathway,First Lake Greenway,,,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,46.15096639
+892,BIKEFAC3900,Suggested Bike Route on Main Road,,Braemar Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,405.3332629
+893,BIKEFAC3901,Suggested Bike Route on Main Road,,Braemar Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,207.1659735
+894,BIKEFAC3902,Suggested Bike Route on Main Road,,Prince Albert Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,278.0796235
+895,BIKEFAC3903,Suggested Bike Route on Main Road,,Prince Albert Rd,,,North Side,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1864.177084
+896,BIKEFAC3904,Suggested Bike Route on Main Road,,Ochterloney St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,990.8307075
+897,BIKEFAC3905,Suggested Bike Route on Main Road,,Ochterloney St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,80.00340529
+898,BIKEFAC3906,Suggested Bike Route on Main Road,,Ochterloney St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,73.82350312
+899,BIKEFAC3842,Suggested Bike Route on Main Road,,Valleyfield Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1182.631077
+900,BIKEFAC3843,Suggested Bike Route on Main Road,,Valleyfield Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,195.2728489
+901,BIKEFAC3844,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,956.1795697
+902,BIKEFAC3845,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,32.06820668
+903,BIKEFAC3846,Suggested Bike Route on Main Road,,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,199.1295469
+904,BIKEFAC3847,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,35.23118246
+905,BIKEFAC3848,Suggested Bike Route on Main Road,,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,60.77673257
+906,BIKEFAC3849,Suggested Bike Route on Main Road,,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,49.1470346
+907,BIKEFAC3850,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,365.7050736
+908,BIKEFAC3851,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,31.63980603
+909,BIKEFAC3852,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,157.3778355
+910,BIKEFAC3853,Suggested Bike Route on Main Road,,Woodlawn Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,75.56938177
+911,BIKEFAC3854,Suggested Bike Route on Main Road,,Settle St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,337.3671067
+912,BIKEFAC3855,Suggested Bike Route on Main Road,,Carver St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,403.6469671
+913,BIKEFAC3856,Suggested Bike Route on Main Road,,Eisener Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,969.1279099
+914,BIKEFAC3857,Multi-use Pathway,Mount Hope Greenway,Mount Hope Ave,Full Implementation,Permanent,South Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,149.1195523
+915,BIKEFAC3858,Multi-use Pathway,Mount Hope Greenway,Mount Hope Ave,Full Implementation,Permanent,South Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,213.3226296
+916,BIKEFAC3859,Suggested Bike Route on Main Road,,Mount Hope Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,174.5722029
+917,BIKEFAC3860,Suggested Bike Route on Main Road,,Baker Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,778.0057365
+918,BIKEFAC3861,Suggested Bike Route on Main Road,,Braemar Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,637.4964088
+919,BIKEFAC3862,Suggested Bike Route on Main Road,,Braemar Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,202.3759861
+920,BIKEFAC3863,Suggested Bike Route on Main Road,,Braemar Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,333.3380094
+921,BIKEFAC3864,Suggested Bike Route on Main Road,,Breeze Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1845.762607
+922,BIKEFAC3865,Suggested Bike Route on Main Road,,Glen Manor Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,84.8288587
+923,BIKEFAC3866,Suggested Bike Route on Main Road,,Micmac Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,855.1120467
+924,BIKEFAC3867,Suggested Bike Route on Main Road,,Micmac Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,850.9931076
+925,BIKEFAC3868,Suggested Bike Route on Main Road,,Glen Manor Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,210.5829837
+926,BIKEFAC3869,Suggested Bike Route on Main Road,,Crichton Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,944.7751626
+927,BIKEFAC3870,Suggested Bike Route on Main Road,,Crichton Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,48.41856155
+928,BIKEFAC3871,Suggested Bike Route on Main Road,,Crichton Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,582.3718381
+929,BIKEFAC3872,Suggested Bike Route on Main Road,,Crichton Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,496.0335689
+930,BIKEFAC3873,Suggested Bike Route on Main Road,,Maple St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,371.9365422
+931,BIKEFAC3874,Suggested Bike Route on Main Road,,Maple St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,377.912332
+932,BIKEFAC3875,Suggested Bike Route on Main Road,,Cow Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1669.639685
+933,BIKEFAC3876,Suggested Bike Route on Main Road,,Cow Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,6747.019003
+934,BIKEFAC3877,Suggested Bike Route on Main Road,,Dyke Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3517.131094
+935,BIKEFAC3878,Suggested Bike Route on Main Road,,Cow Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,2411.358369
+936,BIKEFAC3879,Suggested Bike Route on Main Road,,Cow Bay Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,412.9278528
+937,BIKEFAC3880,Suggested Bike Route on Main Road,,Caldwell Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1599.503227
+938,BIKEFAC3907,Suggested Bike Route on Main Road,,Alderney Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,443.2922394
+939,BIKEFAC3908,Suggested Bike Route on Main Road,,Alderney Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,266.5149747
+940,BIKEFAC3909,Suggested Bike Route on Main Road,,Alderney Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,267.2545562
+941,BIKEFAC3910,Suggested Bike Route on Main Road,,Alderney Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,328.1776785
+942,BIKEFAC3911,Suggested Bike Route on Main Road,Portland St,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1169.116419
+943,BIKEFAC3912,Suggested Bike Route on Main Road,Pleasant St,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,913.0156608
+944,BIKEFAC3913,Suggested Bike Route on Main Road,Portland St,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,583.2987201
+945,BIKEFAC3914,Suggested Bike Route on Main Road,Portland St,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1564.333802
+946,BIKEFAC3915,Suggested Bike Route on Main Road,Pleasant St,,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1591.714859
+947,BIKEFAC3916,Suggested Bike Route on Main Road,,Duke St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1926.606946
+948,BIKEFAC3917,Suggested Bike Route on Main Road,,Duke St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,299.5413933
+949,BIKEFAC3918,Suggested Bike Route on Main Road,,Glendale Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,1795.557941
+950,BIKEFAC3919,Suggested Bike Route on Main Road,,Duke St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,295.0554099
+951,BIKEFAC3920,Suggested Bike Route on Main Road,,Summer St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,57.01587002
+952,BIKEFAC3921,Multi-use Pathway,Conrose Park MUP,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,238.8938288
+953,BIKEFAC3922,Suggested Bike Route on Main Road,,Lower Water St,,,Not Applicable,Bidirectional,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,301.6305197
+954,BIKEFAC3923,Multi-use Pathway,Dalhousie Sexton Cycle Track,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Designated cycling path off-street,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,421.5570855
+955,BIKEFAC3924,Painted Bike Lane,Windsor Street Painted Bike Lanes,Windsor Street,Full Implementation,Permanent,East Side,Unidirectional Northbound,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,404.8911295
+956,BIKEFAC3925,Suggested Bike Route on Local Road,,Isleville St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,111.9929555
+957,BIKEFAC3926,Suggested Bike Route on Local Road,,Drummond Ct,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,69.22971556
+958,BIKEFAC3927,Suggested Bike Route on Main Road,,Cogswell St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,312.3715374
+959,BIKEFAC3928,Suggested Bike Route on Local Road,,Stuart Graham Ave,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,123.7539414
+960,BIKEFAC3929,Multi-use Pathway,,Liverpool St,,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,134.6145567
+961,BIKEFAC3930,Suggested Bike Route on Main Road,,Jubilee Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,120.7076737
+962,BIKEFAC3931,Suggested Bike Route on Local Road,,Oak St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,218.3864201
+963,BIKEFAC3932,Suggested Bike Route on Local Road,,Allan St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,120.1130849
+964,BIKEFAC3933,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,119.4236459
+965,BIKEFAC3934,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,134.8961924
+966,BIKEFAC3935,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,39.17005033
+967,BIKEFAC3936,Suggested Bike Route on Main Road,,Agricola St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,51.12519444
+968,BIKEFAC3937,,,,,,,,,,,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,
+969,BIKEFAC3938,Painted Bike Lane,Purcell's Cove Rd Painted Bike Lanes,Purcells Cove Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,133.3111437
+970,BIKEFAC3939,Suggested Bike Route on Main Road,,Old Sambro Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,3130.051313
+971,BIKEFAC3940,Multi-use Pathway,Mount Hope Greenway,Estates St,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,468.0565857
+972,BIKEFAC3941,Suggested Bike Route on Main Road,,Atlantic St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,330.910184
+973,BIKEFAC3942,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,2021.19765
+974,BIKEFAC3943,Multi-use Pathway,Shubenacadie Canal Greenway,,Full Implementation,Permanent,,Bidirectional,,,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TPW,Interactive,975.9534542
+975,BIKEFAC3944,Suggested Bike Route on Main Road,,Lake Major Rd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,2770.548908
+976,BIKEFAC3945,Suggested Bike Route on Local Road,,Geary St,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,198.536957
+977,BIKEFAC3946,Multi-use Pathway,Victoria Rd Pedestrian Overpass,,Full Implementation,Permanent,Not Applicable,Bidirectional,,Other,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,212.9096827
+978,BIKEFAC3947,Multi-use Pathway,Cutler Ave Multi Use Pathway,Cutler Ave,Full Implementation,Permanent,East Side,Bidirectional,,Raised grade separation from roadway,Yes,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,493.969448
+979,BIKEFAC3948,Suggested Bike Route on Main Road,,Shubie Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,456.3384293
+980,BIKEFAC3949,Suggested Bike Route on Main Road,,Shubie Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,383.8939684
+981,BIKEFAC3950,Suggested Bike Route on Main Road,,Findlay Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,776.5610795
+982,BIKEFAC3951,Suggested Bike Route on Main Road,,Findlay Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,1212.080717
+983,BIKEFAC3952,Suggested Bike Route on Main Road,,Findlay Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,648.112461
+984,BIKEFAC3953,Suggested Bike Route on Main Road,,Findlay Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,157.3864788
+985,BIKEFAC3954,Suggested Bike Route on Main Road,,Innovation Dr,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,,,263.8664576
+986,BIKEFAC3955,Suggested Bike Route on Main Road,,Westwood Blvd,,,,,,None,No,2019-04-29T16:59:47.000Z,2019-04-29T16:59:47.000Z,,TRAFFIC,Interactive,538.0895438
+987,BIKEFAC3956,Multi-use Pathway,Barrington Greenway Extension,Barrington St,Partial Implementation,Permanent,East Side,Bidirectional,2018,Other,Yes,2019-05-28T16:23:16.000Z,2019-05-28T16:24:40.000Z,2019-05-10T00:00:00.000Z,CR,Interactive,940.1642355
